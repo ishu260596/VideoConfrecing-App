@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:icon="@drawable/ic_baseline_access_time_24"
+        android:title="History"/>
+
+    <item
+        android:title="Settings"
+        android:icon="@drawable/ic_baseline_settings_24" />
+
+    <item
+        android:title="Logout"
+        android:icon="@drawable/ic_baseline_login_24" />
+
+
+</menu>
